@@ -4,7 +4,7 @@ This is a game made in assembly language x8086. This game includes a dice and tw
 
 # How to load it
 
-Currently, you will need Visual Studio to see and run the code.
+Currently, you will need Visual Studio to see and run the code. After downloading it, open the .sln file with Visual Studio.
 
 # Features
 
